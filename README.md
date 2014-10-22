@@ -1,4 +1,4 @@
 jarvis-test-pages
 =================
 
-Test pages catalog: [https://zlob.github.io/jarvis-test-pages/](https://zlob.github.io/jarvis-test-pages/)
+Test pages catalog: [https://krustnic.github.io/jarvis-test-pages/](https://krustnic.github.io/jarvis-test-pages/)
